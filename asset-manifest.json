@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/idealistworld/hulio2/static/css/main.769ef73b.css",
-    "main.js": "/idealistworld/hulio2/static/js/main.01b92e0c.js",
-    "static/media/synth.png": "/idealistworld/hulio2/static/media/synth.99d3a54e919c46ad5b78.png",
-    "static/media/background.jpg": "/idealistworld/hulio2/static/media/background.f0af3aaeea654b17d7d9.jpg",
-    "static/media/name.svg": "/idealistworld/hulio2/static/media/name.cf4e0bfa57956fc6b19d07dd1ffe0bc5.svg",
-    "index.html": "/idealistworld/hulio2/index.html",
-    "main.769ef73b.css.map": "/idealistworld/hulio2/static/css/main.769ef73b.css.map",
-    "main.01b92e0c.js.map": "/idealistworld/hulio2/static/js/main.01b92e0c.js.map"
+    "main.css": "/hulio2/static/css/main.c74a81fd.css",
+    "main.js": "/hulio2/static/js/main.ceba284d.js",
+    "static/media/synth.png": "/hulio2/static/media/synth.99d3a54e919c46ad5b78.png",
+    "static/media/background.jpg": "/hulio2/static/media/background.f0af3aaeea654b17d7d9.jpg",
+    "static/media/name.svg": "/hulio2/static/media/name.cf4e0bfa57956fc6b19d07dd1ffe0bc5.svg",
+    "index.html": "/hulio2/index.html",
+    "main.c74a81fd.css.map": "/hulio2/static/css/main.c74a81fd.css.map",
+    "main.ceba284d.js.map": "/hulio2/static/js/main.ceba284d.js.map"
   },
   "entrypoints": [
-    "static/css/main.769ef73b.css",
-    "static/js/main.01b92e0c.js"
+    "static/css/main.c74a81fd.css",
+    "static/js/main.ceba284d.js"
   ]
 }
