@@ -1,7 +1,7 @@
 {
   "name": "hulio-frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://idealistworld.github.io/hulio2/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
